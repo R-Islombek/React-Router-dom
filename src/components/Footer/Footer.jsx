@@ -3,8 +3,8 @@ import React from 'react'
 const Footer = () => {
   return (
     <div>
-              <h1>Footer bo'limi</h1>
-             <p>Bu yerda footer ma'lumotlari bo'ladi</p>
+           <h1>Footer</h1>
+           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente dolore aut nobis.</p>
     </div>
   )
 }

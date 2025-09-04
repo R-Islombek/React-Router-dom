@@ -2,9 +2,9 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div>
-         <h1>Contact bo'limi</h1>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed vero libero modi dolore. Unde!</p>
+    <div className='container'>
+         <h1>Contact Page</h1>
+            <p>Hello Contact Lorem, ipsum dolor.</p>
     </div>
   )
 }
